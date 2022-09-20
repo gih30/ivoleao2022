@@ -8,6 +8,7 @@ body {
 
 .principal{
     background: #CCCCCC
+    padding: 30px;
 }
 
 h1 {
@@ -44,5 +45,5 @@ ul {
 }
 
 .imagembenefícios {
-    width: 30%;
+    width: 50%;
 }
