@@ -39,8 +39,9 @@ h2 {
 }
 ul {
     display: inline-block;
+    vertical-align: top;
 }
 
 .imagembenefícios {
-    width: 50%;
+    width: 100%;
 }
