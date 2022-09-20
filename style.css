@@ -3,16 +3,16 @@ body {
 }
 
 #alura {
-   width: 100%;
+   width:100%;
 }
 
 .principal{
-    background: #CCCCCC
+    background:#CCCCCC
     padding: 30px;
 }
 
 .titulo-principal {
-    padding: left 20px; ;
+    padding-left: 20px; 
 }
 
 .titulo-centralizado {
@@ -32,17 +32,19 @@ em strong {
 }
 
 .itens {
-    font-style: italic;
+    font-style: italic
 }
 
 .beneficios {
     background: #FFFFFF;
+    padding: 20px;
 }
 
 
 ul {
     display: inline-block;
     vertical-align: top;
+    width: 20%;
     margin-right: 15%;
 }
 
