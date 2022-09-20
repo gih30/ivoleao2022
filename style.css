@@ -1,9 +1,13 @@
 body {
-    background: #CCCCCC
+    
 }
 
 #alura {
    width: 100%;
+}
+
+.principal{
+    background: #CCCCCC
 }
 
 h1 {
