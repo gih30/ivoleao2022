@@ -42,6 +42,7 @@ em strong {
 
 ul {
     display: inline-block;
+    vertical-align: top;
 }
 .imagembenefícios {
     width: 50%;
