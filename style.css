@@ -39,6 +39,10 @@ em strong {
     background: #FFFFFF;
     padding: 20px;
 }
+
+ul {
+    display: inline-block;
+}
 .imagembenefícios {
     width: 50%;
 }
