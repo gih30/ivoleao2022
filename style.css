@@ -1,5 +1,5 @@
 body {
-    
+    background: #04c5e7;
 }
 
 #alura {
@@ -7,7 +7,7 @@ body {
 }
 
 .principal{
-    background:#04c5e7
+    background:#04c5e7;
     padding: 30px;
 }
 
@@ -24,7 +24,7 @@ p {
 }
 
 #missao {
-    font-size: 20px
+    font-size: 20px;
 }
 
 em strong {
@@ -46,8 +46,7 @@ ul {
     width: 20%;
     margin-right: 4%;
 }
+
 .imagembenefícios {
     width: 50%;
 }
-}
-
