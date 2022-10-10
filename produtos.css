@@ -2,7 +2,9 @@
     width: 350px;
     height: 250px;
 }
-header{
+header {
     background: #85e5f7;
 }
-  
+nav li {
+    display: inline;
+  }
