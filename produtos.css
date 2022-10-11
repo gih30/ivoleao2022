@@ -61,4 +61,5 @@ nav li {
      display: inline-block;
      text-align: center;
      width: 30%;
+     vertical-align: top;
   }
