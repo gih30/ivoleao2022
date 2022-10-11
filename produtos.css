@@ -59,4 +59,5 @@ nav li {
 
 .produtos li  {
      display: inline-block;
+     text-align: center;
   }
