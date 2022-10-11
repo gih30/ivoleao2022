@@ -2,27 +2,12 @@
     width: 150px;
     height: 150px;
 }
-.bolo {
-    width: 150px;
-    height: 150px;
 
+.foto-produtos {
+  width: 150px;
+  height: 150px;
 }
-.docinhos {
-    width: 150px;
-    height: 150px;
-}
-.donuts {
-    width: 150px;
-    height: 150px;
-}
-.macarons {
-    width: 150px;
-    height: 150px;
-}
-.rocambole {
-    width: 150px;
-    height: 150px;
-}
+
 header {
     background: #BBBBBB;
     padding:20px 0 ;
