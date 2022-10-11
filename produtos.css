@@ -2,6 +2,12 @@
     width: 350px;
     height: 250px;
 }
+nav {
+    position: absolute;
+    top: 0;
+    right: 0;
+    
+}
 header {
     background: #85e5f7;
 }
