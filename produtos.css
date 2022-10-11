@@ -64,6 +64,10 @@ nav li {
     font-size: 30px;
     font-weight:bold ;
   }
+  .produtos-descrição {
+      font-size: 18px;
+  }
+  
   .produtos-preços {
     font-size: 22px;
     font-weight: bold;
