@@ -2,6 +2,10 @@
     width: 350px;
     height: 250px;
 }
+header {
+    background: #BBBBBB;
+    padding: ;
+}
 .caixa {
     position: relative;
     width: 940px;
@@ -11,10 +15,6 @@ nav {
     position: absolute;
     top: 110px;
     right: 0;
-    
-}
-header {
-    background: #85e5f7;
 }
 nav li {
     display: inline;
