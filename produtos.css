@@ -92,3 +92,8 @@ nav a:hover {
 footer{
   text-align:center;
 }
+
+.copyright {
+  font-size: 20px;
+  text-align: center;
+}
