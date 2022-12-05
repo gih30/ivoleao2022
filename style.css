@@ -1,84 +1,120 @@
-body {
-    background: #85e5f7;
+.logo {
+    width: 150px;
+    height: 150px;
 }
 
-/*NAVEGAÇÃO ENTRE PAGINAS*/
-.navegação {
-    padding: 20px 0;
+.foto-produtos {
+  width: 150px;
+  height: 150px;
+}
+
+header {
+    background: #74dff1;
+    padding:20px 0 ;
 }
 
 .caixa {
-    position: relative;
-    width: 300px;
-    margin: 0 auto;
+  position: relative;
+  width: 740px;
+  margin: 0 auto;
+}
+
+nav {
+  position: absolute;
+  top: 130px;
+  right: 0;
 }
 
 nav li {
-    display: inline;
-    margin: 0 0 0 15px;
+  display: inline;
+  margin: 0 0 0 15px;
 }
 
 nav a {
-    text-transform: uppercase;
-    color: black;
-    font-weight: bold;
-    font-size: 22px;
-    text-decoration: none;    
- }
+  text-transform: uppercase;
+  color: black;
+  font-weight: bold;
+  font-size: 22px;
+  text-decoration: none;    
+}
 
 nav a:hover {
-    color: rgb(255, 136, 0);
-    text-decoration: underline;
+  color: rgb(255, 136, 0);
+  text-decoration: underline;
 }
 
-/*HOME*/
-
-#alura {
-   width:850px;
+.produtos {
+  width: 940px;
+  margin: 0 auto;
+  padding: 50px 0;
 }
 
-.principal{
-    background:#85e5f7;
-    padding: 30px;
+.produtos li {
+  display: inline-block;
+  text-align: center;
+  width: 30%;
+  vertical-align: top;
+  margin: 0 1 5%;
+  padding: 30px 20px;
+  box-sizing: border-box;
+  border: 2px solid black;
+  border-radius: 10px;
 }
 
-.titulo-principal {
-    text-align: center;
-    padding-left: 20px; 
+.produtos li:hover {
+  border-color: rgb(255, 136, 0);
 }
 
-.titulo-centralizado {
-    text-align: center
+.produtos li:active {
+  border-color: rgb(9, 160, 9);
 }
 
-p {
-    text-align: center;
+.produtos li:hover h2 {
+  font-size: 34px;
 }
 
-#missao {
-    font-size: 20px;
+.produtos h2 {
+  font-size: 30px;
+  font-weight: bold;
 }
 
-em strong {
-   color:#FF0000; 
+.produto-descriçao {
+  font-size: 18px;
 }
 
-.itens {
-    font-style: italic
+.produto-preço {
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+footer{
+  background: #74dff1;
+  text-align:center;
 }
 
-.beneficios {
-    background: #85e5f7;
-    padding: 20px;
+.copyright {
+  font-size: 20px;
+  text-align: center;
 }
 
-ul {
-    display: inline-block;
-    vertical-align: top;
-    width: 20%;
-    margin-right: 4%;
+main {
+  width: 940px;
+  margin: 0 auto;
 }
 
-.imagembenefícios {
-    width: 750px;
+form {
+  margin: 40px 0;
+}
+
+form label {
+  display: block;
+  font-size: 20px;
+  margin: 0 0 10px;
+}
+
+form input {
+  display: block;
+  margin: 0 0 20px;
+  padding: 10px 25px;
+  width: 50%;
 }
